@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="tilde-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata3803">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.7318273"
+     inkscape:cx="224.32953"
+     inkscape:cy="525.45656"
+     inkscape:window-width="1910"
+     inkscape:window-height="997"
+     inkscape:window-x="5"
+     inkscape:window-y="5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:object-paths="true" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1544"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,0.52916667,0,10 @ C,0,0,1,0,0.52916667,0,10 @ C,0,0,1,0,0.52916667,0,10 @ C,0,0,1,0,0.52916667,0,10"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="2"
+       chamfer_steps="10"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2277">
+      <stop
+         style="stop-color:#ff8b00;stop-opacity:1;"
+         offset="0"
+         id="stop2273" />
+      <stop
+         style="stop-color:#ff8b00;stop-opacity:0;"
+         offset="1"
+         id="stop2275" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2277"
+       id="linearGradient2279"
+       x1="98.417931"
+       y1="130.68909"
+       x2="98.417931"
+       y2="133.04268"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(20.206531,0,0,20.206531,-1955.2271,-2642.019)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#aa0000;fill-opacity:1;fill-rule:evenodd;stroke-width:3.73343"
+       id="path31"
+       cx="33.290836"
+       cy="33.433025"
+       rx="28.763395"
+       ry="28.747704"
+       inkscape:export-filename="/home/aaronh/Documents/Tilde/LOGO.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path989"
+       style="opacity:0.949361;fill:url(#linearGradient2279);fill-opacity:1;stroke-width:5.34632"
+       d="M 33.284136,4.6587331 A 28.809499,28.809499 0 0 0 4.4746151,33.468359 a 28.809499,28.809499 0 0 0 3.038637,12.8437 H 59.055005 a 28.809499,28.809499 0 0 0 3.038611,-12.8437 28.809499,28.809499 0 0 0 -28.80948,-28.8096259 z"
+       inkscape:export-filename="/home/aaronh/Documents/Tilde/LOGO.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#c87137;fill-opacity:1;stroke-width:2.16681"
+       id="rect1996"
+       width="18.524321"
+       height="0.48263595"
+       x="24.367233"
+       y="42.677067" />
+    <path
+       style="fill:#f2f2f2;fill-opacity:1;stroke-width:4.63391"
+       d="m 21.959451,18.410649 a 11.681459,29.08309 0 0 0 5.718811,24.27797 h 11.89643 a 11.681459,29.08309 0 0 0 5.724655,-24.27797 z m 11.388844,9.36186 c 0.420565,0.24035 0.672108,0.63517 0.754637,1.18445 0.03254,0.21661 0.04622,0.44869 0.04067,0.69619 -0.01344,0.24233 -0.05813,0.56182 -0.133756,0.95875 -0.06589,0.31961 -0.101683,0.57884 -0.107451,0.77735 -0.01366,0.19335 -0.0076,0.37516 0.01797,0.54535 0.03254,0.21662 0.123972,0.42294 0.274476,0.6191 0.150503,0.19615 0.323945,0.35489 0.520177,0.47634 l -0.787911,0.30054 c -0.412669,-0.23518 -0.660828,-0.63125 -0.744523,-1.18826 -0.03371,-0.22436 -0.04651,-0.45248 -0.03867,-0.68451 0.0067,-0.23976 0.05053,-0.56342 0.131729,-0.97067 0.06589,-0.3196 0.105702,-0.5759 0.119365,-0.76925 0.0058,-0.19851 -0.0035,-0.37907 -0.02788,-0.54153 -0.03371,-0.22436 -0.125996,-0.43463 -0.276503,-0.63078 -0.150504,-0.19615 -0.323715,-0.35489 -0.519951,-0.47634 z m -5.771417,0.83961 c 0.297422,0.16901 0.476091,0.44508 0.53614,0.82838 0.02368,0.15115 0.03409,0.31299 0.03102,0.48555 -0.0087,0.16894 -0.03903,0.39178 -0.09104,0.66832 -0.0454,0.22264 -0.06988,0.40313 -0.07328,0.54153 -0.009,0.13478 -0.0042,0.26159 0.01438,0.38036 0.02368,0.15115 0.08899,0.29544 0.195798,0.43273 0.106804,0.13728 0.229633,0.24848 0.368441,0.33383 l -0.554572,0.20703 c -0.291836,-0.16537 -0.468277,-0.44237 -0.52917,-0.83107 -0.02453,-0.15656 -0.03444,-0.31592 -0.02967,-0.47769 0.0039,-0.16717 0.03379,-0.39248 0.08969,-0.67619 0.0454,-0.22265 0.07261,-0.40136 0.0816,-0.53614 0.0034,-0.1384 -0.0038,-0.26429 -0.02158,-0.37765 -0.02453,-0.15656 -0.09012,-0.30355 -0.196923,-0.44083 -0.106803,-0.13728 -0.229633,-0.24848 -0.36844,-0.33382 z m 11.697938,0 c 0.297423,0.16901 0.476089,0.44508 0.536137,0.82838 0.02367,0.15115 0.03411,0.31299 0.03102,0.48555 -0.0087,0.16894 -0.03902,0.39178 -0.09104,0.66832 -0.0454,0.22264 -0.06966,0.40313 -0.07306,0.54153 -0.009,0.13478 -0.0044,0.26159 0.0144,0.38036 0.02366,0.15115 0.08877,0.29544 0.195575,0.43273 0.106803,0.13728 0.229631,0.24848 0.368438,0.33383 l -0.554569,0.20703 c -0.291838,-0.16537 -0.468276,-0.44237 -0.529173,-0.83107 -0.02454,-0.15656 -0.03419,-0.31592 -0.02945,-0.47769 0.0039,-0.16717 0.0338,-0.39248 0.08969,-0.67619 0.0454,-0.22265 0.07261,-0.40136 0.0816,-0.53614 0.0035,-0.1384 -0.0039,-0.26429 -0.02157,-0.37765 -0.02454,-0.15656 -0.09034,-0.30355 -0.197145,-0.44083 -0.106803,-0.13728 -0.22941,-0.24848 -0.368216,-0.33382 z"
+       id="path2432"
+       inkscape:connector-curvature="0" />
+    <path
+       id="circle2652"
+       style="fill:#f2f2f2;fill-opacity:1;stroke-width:2.26574"
+       d="m 44.528102,23.626509 a 6.3456471,8.2123824 58.772448 0 0 -0.311852,0.0373 l -0.500306,1.93177 a 4.6142873,6.1339563 38.697737 0 1 1.019608,-0.10104 4.6142873,6.1339563 38.697737 0 1 3.611047,5.61517 4.6142873,6.1339563 38.697737 0 1 -6.506656,5.5586 4.6142873,6.1339563 38.697737 0 1 -0.959373,-0.12091 l -0.236231,0.91133 a 6.3456471,8.2123824 58.772448 0 0 0.311151,0.0139 6.3456471,8.2123824 58.772448 0 0 9.331844,-6.85871 6.3456471,8.2123824 58.772448 0 0 -5.755965,-6.93994 z"
+       inkscape:export-filename="/home/aaronh/Documents/Tilde/LOGO.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.762044px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0190512"
+       x="-156.991"
+       y="34.516529"
+       id="text12880"
+       transform="matrix(-0.47397471,-0.98466231,0.68998855,-0.67639533,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan12878"
+         x="-156.991"
+         y="34.516529"
+         style="fill:#ffffff;stroke-width:0.0190512" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.762044px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0190512"
+       x="-157.61404"
+       y="35.428806"
+       id="text14349"
+       transform="matrix(-0.47397471,-0.98466231,0.68998855,-0.67639533,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan14347"
+         x="-157.61404"
+         y="35.428806"
+         style="fill:#ffffff;stroke-width:0.0190512" /></text>
+    <path
+       inkscape:connector-curvature="0"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/home/aaronh/Documents/Tilde/LOGO.png"
+       d="m 12.314827,234.18485 a 26.853506,66.856627 0 0 0 13.14674,55.81012 h 27.34757 a 26.853506,66.856627 0 0 0 13.15996,-55.81012 z"
+       style="fill:#d3bc5f;fill-opacity:1;stroke-width:10.65250015"
+       id="path4619" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.6711px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.316777"
+       x="19.515825"
+       y="258.20761"
+       id="text5766"><tspan
+         sodipodi:role="line"
+         id="tspan5764"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;stroke-width:0.316777"
+         x="19.515825"
+         y="258.20761">Tilde Cafe</tspan></text>
+    <text
+       transform="matrix(-0.15663352,-1.0424172,0.90729565,-0.34615456,0,0)"
+       id="text4623"
+       y="17.891823"
+       x="-226.33766"
+       style="font-style:normal;font-weight:normal;font-size:34.40844727px;line-height:1.25;font-family:sans-serif;fill:#28170b;fill-opacity:1;stroke:none;stroke-width:0.86022061"
+       xml:space="preserve"><tspan
+         y="17.891823"
+         x="-226.33766"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#28170b;fill-opacity:1;stroke-width:0.86022061"
+         id="tspan4621"
+         sodipodi:role="line">~</tspan></text>
+    <text
+       transform="matrix(-0.16250331,-1.0372744,0.91082015,-0.33986744,0,0)"
+       id="text4627"
+       y="-6.3044109"
+       x="-217.70082"
+       style="font-style:normal;font-weight:normal;font-size:24.12993622px;line-height:1.25;font-family:sans-serif;fill:#28170b;fill-opacity:1;stroke:none;stroke-width:0.60325444"
+       xml:space="preserve"><tspan
+         y="-6.3044109"
+         x="-217.70082"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#28170b;fill-opacity:1;stroke-width:0.60325444"
+         id="tspan4625"
+         sodipodi:role="line">~</tspan></text>
+    <text
+       transform="matrix(-0.16250331,-1.0372744,0.91082015,-0.33986744,0,0)"
+       id="text4631"
+       y="31.200808"
+       x="-229.98956"
+       style="font-style:normal;font-weight:normal;font-size:24.12993622px;line-height:1.25;font-family:sans-serif;fill:#28170b;fill-opacity:1;stroke:none;stroke-width:0.60325444"
+       xml:space="preserve"><tspan
+         y="31.200808"
+         x="-229.98956"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#28170b;fill-opacity:1;stroke-width:0.60325444"
+         id="tspan4629"
+         sodipodi:role="line">~</tspan></text>
+    <ellipse
+       style="fill:#008000;stroke-width:0.725749"
+       id="path403"
+       cx="89.847595"
+       cy="117.36682"
+       rx="43.86871"
+       ry="42.364178" />
+    <circle
+       style="fill:#f9f9f9;fill-rule:evenodd;stroke-width:0.264583"
+       id="path51"
+       cx="90.807182"
+       cy="115.91341"
+       r="27.344711" />
+    <circle
+       style="fill:#552200;stroke-width:0.314486"
+       id="path97"
+       cx="90.807182"
+       cy="115.84291"
+       r="25.041571" />
+    <path
+       style="fill:#f9f9f9;stroke-width:0.264583"
+       id="rect1440"
+       width="6.1956344"
+       height="11.950315"
+       x="-18.517311"
+       y="171.15201"
+       inkscape:path-effect="#path-effect1544"
+       d="m -17.988144,171.15201 h 5.137301 l 0.08278,0.007 0.08074,0.0194 0.07672,0.0318 0.0708,0.0434 0.06314,0.0539 0.05393,0.0631 0.04339,0.0708 0.03178,0.0767 0.01938,0.0807 0.0065,0.0828 v 10.89199 l -0.0065,0.0828 -0.01938,0.0807 -0.03178,0.0767 -0.04339,0.0708 -0.05393,0.0631 -0.06314,0.0539 -0.0708,0.0434 -0.07672,0.0318 -0.08074,0.0194 -0.08278,0.007 -5.137301,0 -0.08278,-0.007 -0.08074,-0.0194 -0.07672,-0.0318 -0.0708,-0.0434 -0.06314,-0.0539 -0.05393,-0.0631 -0.04339,-0.0708 -0.03178,-0.0767 -0.01938,-0.0807 -0.0065,-0.0828 v -10.89199 l 0.0065,-0.0828 0.01938,-0.0807 0.03178,-0.0767 0.04339,-0.0708 0.05393,-0.0631 0.06314,-0.0539 0.0708,-0.0434 0.07672,-0.0318 0.08074,-0.0194 z"
+       sodipodi:type="rect"
+       transform="rotate(-45)" />
+  </g>
+</svg>
