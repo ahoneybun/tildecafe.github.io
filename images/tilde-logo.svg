@@ -7,7 +7,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="tilde-logo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -39,16 +39,18 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.7318273"
-     inkscape:cx="224.32953"
-     inkscape:cy="525.45656"
-     inkscape:window-width="1910"
-     inkscape:window-height="997"
-     inkscape:window-x="5"
-     inkscape:window-y="5"
+     inkscape:zoom="2.2967772"
+     inkscape:cx="413.62305"
+     inkscape:cy="112.76671"
+     inkscape:window-width="3440"
+     inkscape:window-height="1331"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     inkscape:object-paths="true" />
+     inkscape:object-paths="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -67,7 +69,8 @@
        apply_no_radius="true"
        apply_with_radius="true"
        only_selected="false"
-       hide_knots="false" />
+       hide_knots="false"
+       nodesatellites_param="C,0,0,1,0,0.52916667,0,10 @ C,0,0,1,0,0.52916667,0,10 @ C,0,0,1,0,0.52916667,0,10 @ C,0,0,1,0,0.52916667,0,10" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient2277">
@@ -166,15 +169,15 @@
        id="path4619" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12.6711px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.316777"
-       x="19.515825"
-       y="258.20761"
+       style="font-style:normal;font-weight:normal;font-size:8.67849px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.216962"
+       x="19.555752"
+       y="255.15326"
        id="text5766"><tspan
          sodipodi:role="line"
          id="tspan5764"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;stroke-width:0.316777"
-         x="19.515825"
-         y="258.20761">Tilde Cafe</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;stroke-width:0.216962"
+         x="19.555752"
+         y="255.15326">Tilde Cafe</tspan></text>
     <text
        transform="matrix(-0.15663352,-1.0424172,0.90729565,-0.34615456,0,0)"
        id="text4623"
@@ -212,34 +215,37 @@
          id="tspan4629"
          sodipodi:role="line">~</tspan></text>
     <ellipse
-       style="fill:#008000;stroke-width:0.725749"
+       style="fill:#7284a8;fill-opacity:1;stroke-width:0.496717"
        id="path403"
-       cx="89.847595"
-       cy="117.36682"
-       rx="43.86871"
-       ry="42.364178" />
+       cx="99.192352"
+       cy="33.73875"
+       rx="30.024614"
+       ry="28.994884"
+       inkscape:export-filename="coffee-cup2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <circle
-       style="fill:#f9f9f9;fill-rule:evenodd;stroke-width:0.264583"
+       style="fill:#fffecb;fill-opacity:1;fill-rule:evenodd;stroke-width:0.191133"
        id="path51"
-       cx="90.807182"
-       cy="115.91341"
-       r="27.344711" />
+       cx="99.192352"
+       cy="33.73875"
+       r="19.753571" />
     <circle
-       style="fill:#552200;stroke-width:0.314486"
+       style="fill:#4f3824;fill-opacity:1;stroke-width:0.21524"
        id="path97"
-       cx="90.807182"
-       cy="115.84291"
-       r="25.041571" />
+       cx="99.192352"
+       cy="33.73875"
+       r="17.138948" />
     <path
-       style="fill:#f9f9f9;stroke-width:0.264583"
+       style="fill:#fffecb;fill-opacity:1;stroke-width:0.264583"
        id="rect1440"
-       width="6.1956344"
-       height="11.950315"
-       x="-18.517311"
-       y="171.15201"
+       width="4.2404151"
+       height="8.1790333"
+       x="30.331621"
+       y="117.25362"
        inkscape:path-effect="#path-effect1544"
-       d="m -17.988144,171.15201 h 5.137301 l 0.08278,0.007 0.08074,0.0194 0.07672,0.0318 0.0708,0.0434 0.06314,0.0539 0.05393,0.0631 0.04339,0.0708 0.03178,0.0767 0.01938,0.0807 0.0065,0.0828 v 10.89199 l -0.0065,0.0828 -0.01938,0.0807 -0.03178,0.0767 -0.04339,0.0708 -0.05393,0.0631 -0.06314,0.0539 -0.0708,0.0434 -0.07672,0.0318 -0.08074,0.0194 -0.08278,0.007 -5.137301,0 -0.08278,-0.007 -0.08074,-0.0194 -0.07672,-0.0318 -0.0708,-0.0434 -0.06314,-0.0539 -0.05393,-0.0631 -0.04339,-0.0708 -0.03178,-0.0767 -0.01938,-0.0807 -0.0065,-0.0828 v -10.89199 l 0.0065,-0.0828 0.01938,-0.0807 0.03178,-0.0767 0.04339,-0.0708 0.05393,-0.0631 0.06314,-0.0539 0.0708,-0.0434 0.07672,-0.0318 0.08074,-0.0194 z"
+       d="m 30.860788,117.25362 h 3.182082 l 0.08278,0.007 0.08074,0.0194 0.07671,0.0318 0.0708,0.0434 0.06314,0.0539 0.05393,0.0631 0.04339,0.0708 0.03178,0.0767 0.01938,0.0807 0.0065,0.0828 v 7.1207 l -0.0065,0.0828 -0.01938,0.0807 -0.03178,0.0767 -0.04339,0.0708 -0.05393,0.0631 -0.06314,0.0539 -0.0708,0.0434 -0.07671,0.0318 -0.08074,0.0194 -0.08278,0.007 h -3.182082 l -0.08278,-0.007 -0.08074,-0.0194 -0.07672,-0.0318 -0.0708,-0.0434 -0.06314,-0.0539 -0.05393,-0.0631 -0.04339,-0.0708 -0.03178,-0.0767 -0.01938,-0.0807 -0.0065,-0.0828 v -7.1207 l 0.0065,-0.0828 0.01938,-0.0807 0.03178,-0.0767 0.04339,-0.0708 0.05393,-0.0631 0.06314,-0.0539 0.0708,-0.0434 0.07672,-0.0318 0.08074,-0.0194 z"
        sodipodi:type="rect"
-       transform="rotate(-45)" />
+       transform="rotate(-52.936746)" />
   </g>
 </svg>
